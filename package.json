@@ -1,0 +1,26 @@
+{
+  "name": "basic-random",
+  "version": "1.0.0",
+  "description": "Get random things everywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinDavai/basic-random.git"
+  },
+  "keywords": [
+    "random",
+    "int",
+    "float",
+    "items",
+    "generate"
+  ],
+  "author": "KevinDavai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinDavai/basic-random/issues"
+  },
+  "homepage": "https://github.com/KevinDavai/basic-random#readme"
+}
